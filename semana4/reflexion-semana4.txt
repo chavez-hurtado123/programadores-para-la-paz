@@ -1,0 +1,11 @@
+La importancia de las iniciativas ciudadanas al construir herramientas tecnológicas 
+con software libre radica en la autonomía. Al utilizar tecnologías abiertas 
+como Node.js, las comunidades dejan de ser simples consumidoras para convertirse 
+en creadoras. Esto permite desarrollar soluciones adaptadas a problemas locales 
+específicos, garantizando transparencia en el manejo de la información y soberanía 
+tecnológica. Además, este enfoque fomenta el aprendizaje colaborativo, donde el 
+conocimiento técnico se comparte y se perfecciona entre pares. Al reducir la 
+dependencia de grandes corporaciones, se protege la privacidad y se asegura la 
+sostenibilidad de los proyectos a largo plazo. En resumen, es una herramienta de 
+empoderamiento social y democrático que permite que la tecnología sirva al bien 
+común de manera ética y abierta.
