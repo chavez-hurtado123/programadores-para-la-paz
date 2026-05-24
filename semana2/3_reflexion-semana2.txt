@@ -1,0 +1,14 @@
+Para un desarrollador de software, dominar el uso de la terminal 
+es una habilidad fundamental que optimiza la navegación y la gestión 
+de archivos dentro de cualquier proyecto. A diferencia de las 
+interfaces gráficas convencionales, la consola proporciona un 
+acceso directo y de bajo impacto en los recursos del sistema, lo 
+que agiliza tareas repetitivas como la creación de estructuras de 
+directorios o la manipulación masiva de documentos. Además, la 
+terminal se convierte en el entorno nativo e indispensable para 
+interactuar con herramientas profesionales de control de versiones 
+como Git. Comprender cómo desplazarse entre rutas, listar elementos 
+o verificar el directorio de trabajo actual permite de manera 
+eficiente estructurar el código, automatizar flujos de desarrollo 
+y garantizar la consistencia técnica necesaria en entornos de 
+despliegue y colaboración en la nube.
