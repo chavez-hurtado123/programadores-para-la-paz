@@ -1,0 +1,1 @@
+Esta ruta POST permite enviar información al servidor desde el cuerpo de la petición (JSON). En una aplicación comunitaria, serviría para registrar reportes o alertas de los usuarios, permitiendo almacenar datos de forma estructurada para que la comunidad pueda ver el estado de un reporte o recibir notificaciones.

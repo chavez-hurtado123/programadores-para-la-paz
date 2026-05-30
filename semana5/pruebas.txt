@@ -1,0 +1,3 @@
+1. http://localhost:3000: El navegador muestra "Servidor activo", confirmando que la ruta principal funciona.
+2. http://localhost:3000/saludo: El navegador muestra "Hola comunidad", confirmando que la ruta de saludo responde.
+3. http://localhost:3000/mensaje/juan: El navegador muestra "Hola juan", confirmando que el parámetro de nombre se recibe correctamente.

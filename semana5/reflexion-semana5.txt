@@ -1,0 +1,9 @@
+Las APIs son herramientas clave para organizar la información en las comunidades.
+Permiten que diferentes sistemas o aplicaciones se conecten para intercambiar datos
+de manera segura y estructurada. Al usar APIs, los ciudadanos pueden enviar reportes
+o alertas desde cualquier dispositivo, y esta información llega centralizada al servidor.
+Esto facilita que los líderes comunitarios o los mismos vecinos puedan ver, gestionar
+y responder a las necesidades del entorno de forma mucho más eficiente.
+En lugar de tener datos dispersos, las APIs crean un puente claro de comunicación.
+Así, la tecnología ayuda a que la convivencia sea más participativa y transparente.
+Es, en esencia, una forma de usar la tecnología para construir una mejor comunidad.
