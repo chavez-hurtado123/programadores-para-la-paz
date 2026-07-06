@@ -1,0 +1,1 @@
+"El servidor recibe los datos JSON mediante el método POST, los procesa a través de req.body y devuelve una respuesta en formato JSON confirmando la recepción exitosa."
