@@ -1,0 +1,2 @@
+Al realizar una petición de tipo GET a la ruta http://localhost:3000/reportes, el servidor responde con un arreglo JSON que contiene la lista de incidencias almacenadas en la variable 'reportes' dentro de la memoria del servidor. Si previamente se enviaron datos mediante el método POST, la ruta GET retornará los objetos estructurados con su respectivo ID autoincremental, tipo y descripción. Si el servidor se reinicia, este arreglo volverá a mostrarse vacío.
+
