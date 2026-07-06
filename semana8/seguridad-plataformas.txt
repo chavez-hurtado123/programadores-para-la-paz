@@ -1,0 +1,5 @@
+1. No exponer datos personales ni sensibles de la comunidad.
+2. Proteger siempre las credenciales de acceso (usuario y contraseña).
+3. Utilizar siempre conexiones seguras (HTTPS).
+4. Implementar un registro de accesos para auditar quién entra y qué hace.
+5. Limitar el acceso a información sensible solo a usuarios autorizados.
