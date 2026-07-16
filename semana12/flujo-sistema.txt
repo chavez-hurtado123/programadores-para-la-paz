@@ -1,0 +1,5 @@
+1. Un usuario ciudadano accede a la plataforma y crea una nueva causa comunitaria.
+2. La causa es guardada y estructurada en la base de datos del sistema.
+3. Otros ciudadanos visualizan la causa y presionan el botón de "Apoyar".
+4. El sistema registra el apoyo y actualiza el contador en tiempo real.
+5. Al alcanzar una meta, el sistema genera automáticamente un documento PDF formal con la petición para ser presentado ante las autoridades.

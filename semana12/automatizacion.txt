@@ -1,0 +1,3 @@
+Evento: Una nueva causa es registrada exitosamente en la plataforma.
+Mensaje a Telegram: "Nueva causa comunitaria registrada: [Título de la causa]. Visita la plataforma para revisar los detalles."
+Información que no debe enviarse por seguridad: Números de identificación, teléfonos personales, direcciones exactas de domicilio, comentarios con datos sensibles, claves o correos electrónicos privados de los ciudadanos.

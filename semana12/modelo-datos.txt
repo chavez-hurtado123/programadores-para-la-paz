@@ -1,0 +1,13 @@
+Entidad: Causa
+- id: Identificador único.
+- titulo: Nombre de la causa.
+- descripcion: Detalle del problema.
+- fecha: Fecha de creación.
+Propósito: Almacena la información central de la iniciativa comunitaria.
+
+Entidad: Apoyo
+- id: Identificador único.
+- causa_id: Relación con la causa apoyada.
+- nombre: Nombre del ciudadano que apoya.
+- fecha: Fecha del apoyo.
+Propósito: Registra el respaldo ciudadano para medir el impacto y validez de la petición.
