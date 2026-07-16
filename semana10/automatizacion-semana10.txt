@@ -1,0 +1,6 @@
+Evento: Recepción de un nuevo reporte en la base de datos del sistema.
+Acción: Envío de mensaje automático a un canal o chat de Telegram.
+Mensaje: "Atención: Se ha registrado un nuevo reporte en el sistema. Por favor, verificar en el panel de control."
+
+Información que no debe enviarse por seguridad:
+Nombres completos, números de documento de identidad, números de teléfono, direcciones exactas de residencia, claves de acceso o cualquier dato que permita identificar personalmente a los usuarios.

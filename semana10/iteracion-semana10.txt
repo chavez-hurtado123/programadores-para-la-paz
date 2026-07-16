@@ -1,0 +1,11 @@
+¿Qué 2 tareas del backlog harías primero?
+1. Registro de incidencia (Ciudadano).
+2. Alerta de nuevo reporte en Telegram (Coordinador).
+
+¿Por qué son las más importantes?
+Porque constituyen el flujo básico de entrada de información y la comunicación inmediata, permitiendo que el sistema sea útil desde el primer día.
+
+Definición de "Terminado":
+1. El código cumple con la funcionalidad esperada sin errores críticos.
+2. La funcionalidad fue probada manualmente y validada.
+3. El avance quedó registrado y sincronizado en el repositorio de Git.
